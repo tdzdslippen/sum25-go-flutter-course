@@ -18024,7 +18024,7 @@ return n}}
 A.a__.prototype={
 $1(a){var s=A.cL().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/dd93de6fb1776398bf586cbd477deade1391c7e4/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/109150893958777c8f2215f6cfd3e89e984e8dea/":s)+a},
 $S:112}
 A.If.prototype={
 cS(a,b){var s,r=this.a
